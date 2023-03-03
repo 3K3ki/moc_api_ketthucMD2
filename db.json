@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "email": "danhung25072001@gmail.com",
+      "password": "$2a$10$aQA5ibycArVNcbeHweiUf.yJbEycur898c0JbQ69umscBx4wGEihe",
+      "account": "admin",
+      "repassword": "hung123456",
+      "id": 0,
+      "permission": 1
+    },
+    {
+      "email": "danhung072001@gmail.com",
+      "password": "$2a$10$LykXBbt6p8KWm.K2LF0CfOywAy75PX0YseC7UPwag5Ibur1izmCkC",
+      "account": "3k3k",
+      "repassword": "123456",
+      "permission": 0,
+      "id": 1
+    },
+    {
+      "email": "danhung2001@gmail.com",
+      "password": "$2a$10$1gXDpq4xcE7M39cbn92mPOmvJShEhlNag67uf.guAXiOXnzK4zEn2",
+      "permission": 0,
+      "account": "ok",
+      "repassword": "hung123456",
+      "id": 2
+    }
+  ],
+  "mangas": [
+    {
+      "imageUrls": "https://firebasestorage.googleapis.com/v0/b/hung-b4240.appspot.com/o/images%2F405.jpg?alt=media&token=f507a694-6beb-4080-bce0-e561f6d4e9a1",
+      "name": "irruma111",
+      "chapters": "1",
+      "status": "Chua hoan thanh",
+      "imageChapterUrls": [
+        "https://firebasestorage.googleapis.com/v0/b/hung-b4240.appspot.com/o/imagesChapterUrls%2Findex-_1_.jpg7230b978-002a-462e-b78e-a36f19abe1fb?alt=media&token=d31201da-d937-4425-8078-511b25dbbc33",
+        "https://firebasestorage.googleapis.com/v0/b/hung-b4240.appspot.com/o/imagesChapterUrls%2Findex.jpg.jpgeba770d0-5565-48a5-9ae3-1c860e23871a?alt=media&token=127bae09-d239-4f73-9e86-d6a34cffbb01",
+        "https://firebasestorage.googleapis.com/v0/b/hung-b4240.appspot.com/o/imagesChapterUrls%2Findex-_2_.jpgf451bc57-a111-457c-8ea1-45b8cb9f7b4e?alt=media&token=7c9ff644-fa6c-4464-9892-5eb899be027c"
+      ],
+      "id": 1
+    },
+    {
+      "imageUrls": "https://firebasestorage.googleapis.com/v0/b/hung-b4240.appspot.com/o/images%2F3542.jpg?alt=media&token=8357c23b-3078-4c8e-8b05-0838dee7ca3e",
+      "name": "Sói",
+      "chapters": "1",
+      "status": "Chưa xong",
+      "imageChapterUrls": [],
+      "id": 2
+    },
+    {
+      "imageUrls": "https://firebasestorage.googleapis.com/v0/b/hung-b4240.appspot.com/o/images%2F16546.jpg?alt=media&token=cc0740eb-6d39-4f09-a367-62638f174d8c",
+      "name": "Gì đấy",
+      "chapters": "1",
+      "status": "Chưa xong",
+      "imageChapterUrls": [],
+      "id": 3
+    },
+    {
+      "imageUrls": "https://firebasestorage.googleapis.com/v0/b/hung-b4240.appspot.com/o/images%2F1649937842-2013.jpg?alt=media&token=68c02bbc-7098-467b-8b21-e4ee11e129b3",
+      "name": "Khô lâu",
+      "chapters": "1",
+      "status": "Chưa hoàn thành",
+      "imageChapterUrls": [],
+      "id": 4
+    },
+    {
+      "imageUrls": "https://firebasestorage.googleapis.com/v0/b/hung-b4240.appspot.com/o/images%2F1597722745-0483%20-%20Copy.jpg?alt=media&token=b9a3dbfa-fc9b-47f5-9b5e-f300a59dec57",
+      "name": "Truyện",
+      "chapters": "1",
+      "status": "Chưa hoàn thành ",
+      "imageChapterUrls": [
+        "https://firebasestorage.googleapis.com/v0/b/hung-b4240.appspot.com/o/imagesChapterUrls%2Ftoanchuc.jfif8176c7fa-7efb-4423-9393-7818eae35b56?alt=media&token=553ab8af-02db-4a93-8544-60664fc34292",
+        "https://firebasestorage.googleapis.com/v0/b/hung-b4240.appspot.com/o/imagesChapterUrls%2Ftoanchuc3.jfif65f8ec06-6ed2-4d5b-881e-a3c9c6c93b8e?alt=media&token=bf24a3a2-a786-49fe-97ec-8a8bd2989add",
+        "https://firebasestorage.googleapis.com/v0/b/hung-b4240.appspot.com/o/imagesChapterUrls%2Ftoan%20chuc%202.jfifa6c4891b-cc29-4811-a7e6-aa85100bf305?alt=media&token=f3d5dbac-2908-4c79-8db1-587908ad91d8"
+      ],
+      "id": 5
+    }
+  ]
+}
